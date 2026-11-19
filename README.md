@@ -281,4 +281,4 @@ Laravel-KantinGo/
 
 ## 🎓 8. Kesimpulan & Penyerahan Proyek
 
-Proyek migrasi **KantinGO 2.0** telah berhasil bertransformasi penuh dari sistem PHP Native & SQLite menjadi platform web modern berbasis **Laravel 11 dan MySQL**. Seluruh aset visual, logo, identitas *caramel glassmorphism*, integritas data masa lalu, dan aturan bisnis telah dipertahankan dan disempurnakan untuk kebutuhan skala universitas multi-kampus.
+Proyek migrasi **KantinGO 2.0** telah berhasil bertransformasi penuh dari sistem PHP Native & SQLite menjadi platform web modern berbasis **Laravel 13 dan MySQL**. Seluruh aset visual, logo, identitas *caramel glassmorphism*, integritas data masa lalu, dan aturan bisnis telah dipertahankan dan disempurnakan untuk kebutuhan skala universitas multi-kampus.
