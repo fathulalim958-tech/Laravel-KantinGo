@@ -2,7 +2,7 @@
 
 **Platform Pemesanan Makanan & Minuman Multi-Kantin Terintegrasi untuk Civitas Akademika Universitas Pamulang.**
 
-> **Status Migrasi:** ✅ **100% Selesai & Terverifikasi (Laravel 11 + MySQL)**  
+> **Status Migrasi:** ✅ **100% Selesai & Terverifikasi (Laravel 13 + MySQL)**  
 > **Referensi Sumber Legacy:** `C:\laragon\www\Folder\Kantin-Go` (PHP Native & SQLite — seluruh data historis dipertahankan utuh).  
 > **Aplikasi Baru:** `C:\laragon\www\Folder\Laravel-KantinGo`  
 > **Pengujian Otomatis:** ✅ **44 Feature & Unit Tests Passed (169 Assertions)**.
